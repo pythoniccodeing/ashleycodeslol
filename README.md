@@ -9,7 +9,7 @@ I've been learning how to code in python for about 6 months now, my progress has
 * 🌍  I'm based in England, London
 * ✉️  You can contact me at [ashley.#2170](mailto:ashley.#2170)
 * 🚀  I'm currently working on [Pandora, a command line that will eventually have a minecraft snipe sniper implemented.](http://github.com/ashleycodeslol/Pandora)
-* 🧠  I'm learning Aysncio, aiohttp, requests.
+* 🧠  I'm learning Aysncio, aiohttp, requests, Tkinter.
 * 🤝  I'm open to collaborating on Anything! just message me.
 * 🤝 Pronouns - she/her
 

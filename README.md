@@ -7,9 +7,9 @@ Python Developer, Web Developer
 I've been learning how to code in python for about 6 months now, my progress has been wonderful so.
 
 * 🌍  I'm based in England, London
-* ✉️  You can contact me at [ashley.#2170](mailto:ashley.#2170)
-* 🚀  I'm currently working on [Pandora, a command line that will eventually have a minecraft snipe sniper implemented.](http://github.com/ashleycodeslol/Pandora)
-* 🧠  I'm learning Aysncio, aiohttp, requests, Tkinter.
+* ✉️  You can contact me at [ashleycodeslol#2170]
+* 🚀  I'm currently working on Learning PyQt5
+* 🧠  I'm currently learning PyQt5.
 * 🤝  I'm open to collaborating on Anything! just message me.
 
 ### Skills

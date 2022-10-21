@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer, Web Developer
 -------------------------------
 
-I've been learning how to code in python for about 6 months now, my progress has been wonderful so.
+Hi!.
 
 * 🌍  I'm based in England, London
 * ✉️  You can contact me at ashleycodeslol#2170

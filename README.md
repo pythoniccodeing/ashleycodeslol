@@ -8,8 +8,8 @@ I've been learning how to code in python for about 6 months now, my progress has
 
 * 🌍  I'm based in England, London
 * ✉️  You can contact me at ashleycodeslol#2170
-* 🚀  I'm currently working on Learning PyQt5
-* 🧠  I'm currently learning PyQt5.
+* 🚀  I'm currently working on something
+* 🧠  I'm currently learning C#.
 * 🤝  I'm open to collaborating on Anything! just message me.
 
 ### Skills
